@@ -52,7 +52,7 @@ Once we have sufficient color contrast in our placeholders, placeholders can be 
     Your Name:
   </label>
   <input type="text" id="your-name" name="your-name" placeholder="What's your name?">
-  <input type="submit" value="Submit Name">
+  <button type="submit">Submit Name</button>
 </form>
 {% endhighlight %}
 
@@ -63,7 +63,7 @@ Once we have sufficient color contrast in our placeholders, placeholders can be 
     Your Name:
     <input type="text" id="your-name" name="your-name" placeholder="What's your name?">
   </label>
-  <input type="submit" value="Submit Name">
+  <button type="submit">Submit Name</button>
 </form>
 {% endhighlight %}
 
